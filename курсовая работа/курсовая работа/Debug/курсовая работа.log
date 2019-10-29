@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  курсовая работа.cpp
+c:\users\boris\desktop\github\studentcpp\курсовая работа\курсовая работа\курсовая работа.cpp(198): warning C4715: Stack<char>::Peek: значение возвращается не при всех путях выполнения
+c:\users\boris\desktop\github\studentcpp\курсовая работа\курсовая работа\курсовая работа.cpp(191): warning C4715: Stack<char>::pop: значение возвращается не при всех путях выполнения
+  курсовая работа.vcxproj -> C:\Users\boris\Desktop\github\StudentCpp\курсовая работа\Debug\курсовая работа.exe
